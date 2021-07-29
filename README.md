@@ -1,4 +1,6 @@
-# a python script to generate logically equivalent assembly code
+# Equivalent Assembly Generator
+
+A Python script to generate logically equivalent assembly code.
 
 Adapted from alanvivona's GoLang code: https://github.com/alanvivona/pwnshop/tree/master/src/0x12-SLAE-shellstorm-polymorph/polymorph
 
